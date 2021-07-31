@@ -10,7 +10,7 @@ def main():
 
         names.append(name)
 
-    print("In total:", len(names))
+    print("In total: " + str(len(names)))
 
 if __name__ == '__main__':
     main()
